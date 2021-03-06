@@ -1,6 +1,3 @@
-title: Matthew Pelz's Website
-dscription: Bookmark this page for updates on ongoing projects
-
 ## Biography
 
 You can use the [editor on GitHub](https://github.com/pelzma/pelzma.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -9,15 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Bulleted
+- List
 
 ### Education
 
 - Bulleted
 - List
-
-1. Numbered
-2. List
 
 ### Publications
 
