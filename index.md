@@ -1,3 +1,6 @@
+title: Matthew Pelz's Website
+dscription: Bookmark this page for updates on ongoing projects
+
 ## Biography
 
 You can use the [editor on GitHub](https://github.com/pelzma/pelzma.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
