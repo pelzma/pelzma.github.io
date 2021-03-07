@@ -21,13 +21,13 @@ Independent learner and experienced researcher. Organizer of research projects r
 - Pelz, Matthew. “The Galveston Brewery,” Journal of the Brewery History Society. *In press*
 - Pelz, Matthew. “The Desegregation of the Galveston Fire Department,” The Journal of South Texas, 34, 1, 2020.
 - Pelz, Matthew. “Fairacres: The George Brothers, George Kessler and the Development of Omaha's ‘Garden Suburb’,” Nebraska History Magazine, 100, 04, 2019.
-- Pelz, Matthew. “Biographical Notes: George Washington Grover,” Texas Gulf Historical and Biographical Record, 53, 2017. 
+- Pelz, Matthew. “[Biographical Notes: George Washington Grover](http://www.texasgulfrecord.org/toc-volume-53.html),” Texas Gulf Historical and Biographical Record, 53, 2017. 
 
 ### Projects
 - “South 8th Street Historic District.” Council Bluffs, Iowa. NR #100005299, 2020.
 - “[The Galveston, Houston & Henderson Freight Depot](https://atlas.thc.texas.gov/NR/pdfs/100004866/100004866.pdf).” Galveston, Texas. NR #10000486, 2020. 
-- “The Strand Historic District.” Galveston, Texas. NR #70000748. Revision to existing listing, 2018. https://atlas.thc.texas.gov/NR/pdfs/70000748/70000748.pdf
-- “Fairacres Historic District.” Omaha, Nebraska. NR #100001353, 2018. https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat
+- “[The Strand Historic District](https://atlas.thc.texas.gov/NR/pdfs/70000748/70000748.pdf).” Galveston, Texas. NR #70000748. Revision to existing listing, 2018.
+- “[Fairacres Historic District](https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat).” Omaha, Nebraska. NR #100001353, 2018. 
 
 
 ### Contact
