@@ -3,32 +3,21 @@
 Independent learner and experienced researcher. Organizer of research projects related to dynamical systems and information theory. Educated in data science principles and practices and awarded for excellence in data visualization. Extensive background in historical and architectural research, compiling primary source material and analyzing secondary sources. Practiced public speaker with years of experience addressing city and state government agencies and public audiences on behalf of non-profit groups, real estate developers, and private homeowners.
 
 ### Interests
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-<table border="0">
- <tr>
-    <td>- Data Science and Visualization
+- Data Science and Visualization
 - Machine Learning
-- Boolean Networks</td>
-    <td>- Mathematical Statistics
+- Boolean Networks
 - Dynamical Systems and Chaos
-- Real Analysis</td>
- </tr>
-</table>
-
-
-
-
 
 ### Education
 
-- 2020	Bachelor of Science, Mathematics
-	The University of Nebraska Omaha		   
+- BS in Mathematics, 2020
+> The University of Nebraska Omaha		   
 
-- 2009	Master of Science in Historic Preservation 
-	Clemson University/College of Charleston
+- MS in Historic Preservation, 2009
+> Clemson University/College of Charleston
 
-- 2006	Bachelor of Arts, History
-	The University of North Carolina at Chapel Hill
+- BA in History, 2006
+> The University of North Carolina at Chapel Hill
 
 ### Publications
 
