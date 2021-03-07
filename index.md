@@ -22,6 +22,7 @@ Data science graduate student and professional historian. Coursework and researc
 - Pelz, Matthew. “[Biographical Notes: George Washington Grover](http://www.texasgulfrecord.org/toc-volume-53.html),” Texas Gulf Historical and Biographical Record, 53, 2017. 
 
 ### Projects
+- "[Stability Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://digitalcommons.unomaha.edu/srcaf/2020/schedule/40/)." University of Nebraska Omaha, Advisor Dora Velcsov, 2020.
 - “South 8th Street Historic District.” Council Bluffs, Iowa. NR #100005299, 2020.
 - “[The Galveston, Houston & Henderson Freight Depot](https://atlas.thc.texas.gov/NR/pdfs/100004866/100004866.pdf).” Galveston, Texas. NR #10000486, 2020. 
 - “[The Strand Historic District](https://atlas.thc.texas.gov/NR/pdfs/70000748/70000748.pdf).” Galveston, Texas. NR #70000748. Revision to existing listing, 2018.
