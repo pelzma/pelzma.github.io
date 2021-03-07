@@ -9,12 +9,9 @@ Independent learner and experienced researcher. Organizer of research projects r
 - Dynamical Systems and Chaos
 
 ### Education
-- BS in Mathematics, 2020
-> The University of Nebraska Omaha		   
-- MS in Historic Preservation, 2009
-> Clemson University/College of Charleston
-- BA in History, 2006
-> The University of North Carolina at Chapel Hill
+- BS in Mathematics, 2020 *The University of Nebraska Omaha*   
+- MS in Historic Preservation, 2009 *Clemson University/College of Charleston*
+- BA in History, 2006 *The University of North Carolina at Chapel Hill*
 
 ### Publications
 - Pelz, Matthew and Velcsov, Dora. Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes. *Submitted 2020*
