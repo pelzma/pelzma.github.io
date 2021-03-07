@@ -25,6 +25,7 @@ Data science graduate student and professional historian. Coursework and researc
 - "[Stability Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://digitalcommons.unomaha.edu/srcaf/2020/schedule/40/)." University of Nebraska Omaha, Advisor Dora Velcsov, 2020.
 - “South 8th Street Historic District.” Council Bluffs, Iowa. NR #100005299, 2020.
 - “[The Galveston, Houston & Henderson Freight Depot](https://atlas.thc.texas.gov/NR/pdfs/100004866/100004866.pdf).” Galveston, Texas. NR #10000486, 2020. 
+- "[Large Scale Dynamical Model of Macrophage/HIV Interactions](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=2481&context=srcaf)." As member of Mathematical Biology Group, University of Nebraska Omaha, Advisor Jim Rogers, 2019.
 - “[The Strand Historic District](https://atlas.thc.texas.gov/NR/pdfs/70000748/70000748.pdf).” Galveston, Texas. NR #70000748. Revision to existing listing, 2018.
 - “[Fairacres Historic District](https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat).” Omaha, Nebraska. NR #100001353, 2018. 
 
