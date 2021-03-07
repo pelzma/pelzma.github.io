@@ -28,5 +28,8 @@ Independent learner and experienced researcher. Organizer of research projects r
 - “[Fairacres Historic District](https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat).” Omaha, Nebraska. NR #100001353, 2018. 
 
 ### Contact
-[email](mailto: mattpelz@pm.me)
-4411 Jane Street, Bellaire, Texas, 77401
+[email](mailto: mattpelz@pm.me)  
+
+4411 Jane Street, Bellaire, Texas, 77401  
+
+[linkedin](https://www.linkedin.com/in/pelzm/)
