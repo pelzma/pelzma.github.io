@@ -1,5 +1,5 @@
 ## Biography
-Independent learner and experienced researcher. Organizer of research projects related to dynamical systems and information theory. Educated in data science principles and practices and awarded for excellence in data visualization. Extensive background in historical and architectural research, compiling primary source material and analyzing secondary sources. Practiced public speaker with years of experience addressing city and state government agencies and public audiences on behalf of non-profit groups, real estate developers, and private homeowners.
+Data science graduate student and professional historian. Coursework and research in dynamical systems and chaos, Boolean networks, deep learning, information theory, and game theory. Experience in architectural and cultural history research resulting in mseveral publications and speaking engagements.
 
 ### Interests
 - Machine Learning
@@ -14,6 +14,7 @@ Independent learner and experienced researcher. Organizer of research projects r
 - BA in History, 2006, *The University of North Carolina at Chapel Hill*
 
 ### Publications
+- Pelz, Matthew, ed. [Protecting Historic Coastal Cities](https://www.amazon.com/Protecting-Historic-Coastal-Cities-University-Corpus/dp/1623497701). Texas A&M Press, 2019.
 - Pelz, Matthew and Velcsov, Dora. Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes. *Submitted 2020*
 - Pelz, Matthew. “[The Galveston Brewery](http://www.breweryhistory.com/journal/archive/180/index.html),” Journal of the Brewery History Society, 180, Autumn 2019.
 - Pelz, Matthew. “The Desegregation of the Galveston Fire Department,” The Journal of South Texas, 34, 1, 2020.
