@@ -1,5 +1,4 @@
 ## Biography
-
 Independent learner and experienced researcher. Organizer of research projects related to dynamical systems and information theory. Educated in data science principles and practices and awarded for excellence in data visualization. Extensive background in historical and architectural research, compiling primary source material and analyzing secondary sources. Practiced public speaker with years of experience addressing city and state government agencies and public audiences on behalf of non-profit groups, real estate developers, and private homeowners.
 
 ### Interests
@@ -10,9 +9,10 @@ Independent learner and experienced researcher. Organizer of research projects r
 - Architectural History
 
 ### Education
-- BS in Mathematics, 2020 *The University of Nebraska Omaha*   
-- MS in Historic Preservation, 2009 *Clemson University/College of Charleston*
-- BA in History, 2006 *The University of North Carolina at Chapel Hill*
+- MS in Data Science, est. 2022, *The University of Texas at Austin*
+- BS in Mathematics, 2020, *The University of Nebraska Omaha*   
+- MS in Historic Preservation, 2009, *Clemson University/College of Charleston*
+- BA in History, 2006, *The University of North Carolina at Chapel Hill*
 
 ### Publications
 - Pelz, Matthew and Velcsov, Dora. Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes. *Submitted 2020*
@@ -27,5 +27,6 @@ Independent learner and experienced researcher. Organizer of research projects r
 - “[The Strand Historic District](https://atlas.thc.texas.gov/NR/pdfs/70000748/70000748.pdf).” Galveston, Texas. NR #70000748. Revision to existing listing, 2018.
 - “[Fairacres Historic District](https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat).” Omaha, Nebraska. NR #100001353, 2018. 
 
-
 ### Contact
+[email](mailto: mattpelz@pm.me)
+4411 Jane Street, Bellaire, Texas, 77401
