@@ -1,11 +1,11 @@
 ## Biography
 Independent learner and experienced researcher. Organizer of research projects related to dynamical systems and information theory. Educated in data science principles and practices and awarded for excellence in data visualization. Extensive background in historical and architectural research, compiling primary source material and analyzing secondary sources. Practiced public speaker with years of experience addressing city and state government agencies and public audiences on behalf of non-profit groups, real estate developers, and private homeowners.
 
-Coursework | Interests
---------- | ----------
-Machine Learning | Complex Systems
-Dynamical Systems and Chaos | Optimization
-Game Theory | Architectural and Cultural History
+### Interests
+- Machine Learning
+- Optimization
+- Complex Systems
+- Architectural and Cultural History
 
 ### Education
 - MS in Data Science, est. 2022, *The University of Texas at Austin*
