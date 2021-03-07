@@ -3,13 +3,25 @@
 Independent learner and experienced researcher. Organizer of research projects related to dynamical systems and information theory. Educated in data science principles and practices and awarded for excellence in data visualization. Extensive background in historical and architectural research, compiling primary source material and analyzing secondary sources. Practiced public speaker with years of experience addressing city and state government agencies and public audiences on behalf of non-profit groups, real estate developers, and private homeowners.
 
 ### Interests
-
-- Data Science and Visualization
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>- Data Science and Visualization
 - Machine Learning
-- Boolean Networks
-- Mathematical Statistics
+- Boolean Networks</td>
+    <td>- Mathematical Statistics
 - Dynamical Systems and Chaos
-- Real Analysis
+- Real Analysis</td>
+ </tr>
+</table>
+
+
+
+
 
 ### Education
 
