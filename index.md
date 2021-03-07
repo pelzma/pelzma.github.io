@@ -7,6 +7,7 @@ Independent learner and experienced researcher. Organizer of research projects r
 - Machine Learning
 - Boolean Networks
 - Dynamical Systems and Chaos
+- Architectural History
 
 ### Education
 - BS in Mathematics, 2020 *The University of Nebraska Omaha*   
