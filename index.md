@@ -18,7 +18,7 @@ Independent learner and experienced researcher. Organizer of research projects r
 
 ### Publications
 - Pelz, Matthew and Velcsov, Dora. Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes. *Submitted 2020*
-- Pelz, Matthew. “The Galveston Brewery,” Journal of the Brewery History Society. *In press*
+- Pelz, Matthew. “[The Galveston Brewery](http://www.breweryhistory.com/journal/archive/180/index.html),” Journal of the Brewery History Society, 180, Autumn 2019.
 - Pelz, Matthew. “The Desegregation of the Galveston Fire Department,” The Journal of South Texas, 34, 1, 2020.
 - Pelz, Matthew. “Fairacres: The George Brothers, George Kessler and the Development of Omaha's ‘Garden Suburb’,” Nebraska History Magazine, 100, 04, 2019.
 - Pelz, Matthew. “[Biographical Notes: George Washington Grover](http://www.texasgulfrecord.org/toc-volume-53.html),” Texas Gulf Historical and Biographical Record, 53, 2017. 
