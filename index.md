@@ -29,5 +29,5 @@ Data science graduate student and professional historian. Coursework and researc
 
 ### Contact
 4411 Jane Street, Bellaire, Texas, 77401  
-[email](mailto: mattpelz@pm.me)  
+mattpelz@pm.me  
 [linkedin](https://www.linkedin.com/in/pelzm/)
