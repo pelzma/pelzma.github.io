@@ -14,7 +14,7 @@ Data science graduate student and professional historian. Coursework and researc
 - BA in History, 2006, *The University of North Carolina at Chapel Hill*
 
 ### Select Publications
-- Pelz, Matthew and Velcsov, Dora. "Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes," Physica A: Statistical Mechanics and Its Applications, 589, March 2022.
+- Pelz, Matthew and Velcsov, Dora. "[Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://www.sciencedirect.com/science/article/pii/S0378437121008761?dgcid=coauthor)," Physica A: Statistical Mechanics and Its Applications, 589, March 2022.
 - Pelz, Matthew, ed. [Protecting Historic Coastal Cities](https://www.amazon.com/Protecting-Historic-Coastal-Cities-University-Corpus/dp/1623497701). Texas A&M Press, 2019.
 - Pelz, Matthew. “[The Galveston Brewery](http://www.breweryhistory.com/journal/archive/180/index.html),” Journal of the Brewery History Society, 180, Autumn 2019.
 - Pelz, Matthew. “The Desegregation of the Galveston Fire Department,” The Journal of South Texas, 34, 1, 2020.
