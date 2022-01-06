@@ -1,14 +1,14 @@
-## Biography
-Data science graduate student and professional historian. Coursework and research in dynamical systems and chaos, Boolean networks, deep learning, information theory, and game theory. Experience in cultural history research resulting in many publications and speaking engagements.
+## Profile
+Data science graduate student and professional historian. Educated in machine learning theory and practice. Awarded for excellence in data visualization. Coursework and research in deep learning, information theory, natural language processing, dynamical systems, and game theory. Extensive backgrounds in project management and historical research, compiling primary source material and analyzing secondary sources.
 
 ### Interests
-- Boolean Networks
-- Natural Language Processing
-- Deep Learning
+- Machine learning
+- Complex systems
+- Natural language processing 
 - Architectural and cultural history
 
 ### Education
-- MS in Data Science, est. 2022, *The University of Texas at Austin*
+- MS in Data Science, estimated completion Spring 2023, *The University of Texas at Austin*
 - BS in Mathematics, 2020, *The University of Nebraska Omaha*   
 - MS in Historic Preservation, 2009, *Clemson University/College of Charleston*
 - BA in History, 2006, *The University of North Carolina at Chapel Hill*
