@@ -1,11 +1,10 @@
 ## Profile
-Data science graduate student and professional historian. Educated in machine learning theory and practice. Awarded for excellence in data visualization. Coursework and research in deep learning, information theory, natural language processing, dynamical systems, and game theory. Extensive backgrounds in project management and historical research, compiling primary source material and analyzing secondary sources.
+Graduate student in data science. Self-driven learner and experienced researcher. Organizer of research projects on topics in data science and networks. Educated in machine learning theory and practice. Recognized for excellence in data visualization. Background in historical research, compiling primary source material and analyzing secondary sources resulting in several publications and reports prepared for government agencies.
 
 ### Interests
+- Data science
 - Machine learning
 - Complex systems
-- Natural language processing 
-- Architectural and cultural history
 
 ### Education
 - MS in Data Science, estimated completion Spring 2023, *The University of Texas at Austin*
