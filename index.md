@@ -2,11 +2,12 @@
 Self-driven learner and experienced researcher in data science, machine learning, and architectural history. Organizer of research projects on topics in complex networks. Educated in machine learning theory and practice. Recognized for excellence in data visualization. Background in historical research, compiling primary source material and analyzing secondary sources resulting in several publications and reports prepared for government agencies.
 
 ### Math and Data Science
-- Pelz, Matthew and Velcsov, Dora. "[Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://www.sciencedirect.com/science/article/pii/S0378437121008761?dgcid=coauthor)," Physica A: Statistical Mechanics and Its Applications, 589, March 2022.
+#### Boolean Networks
+- "[Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://www.sciencedirect.com/science/article/pii/S0378437121008761?dgcid=coauthor)," Physica A: Statistical Mechanics and Its Applications, 589, March 2022. Pelz, Matthew and Velcsov, Dora.
 
-- "[Stability Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://digitalcommons.unomaha.edu/srcaf/2020/schedule/40/)." University of Nebraska Omaha, Advisor Dora Velcsov, 2020.
+- "[Stability Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://digitalcommons.unomaha.edu/srcaf/2020/schedule/40/)." University of Nebraska Omaha, Advisor Dora Velcsov, 2020. *R and Inkscape*
 
-- "[Large Scale Dynamical Model of Macrophage/HIV Interactions](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=2481&context=srcaf)." As member of Mathematical Biology Group, University of Nebraska Omaha, Advisor Jim Rogers, 2019.
+- "[Large Scale Dynamical Model of Macrophage/HIV Interactions](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=2481&context=srcaf)." As member of Mathematical Biology Group, University of Nebraska Omaha, Advisors Jim Rogers and Dora Velcsov, 2019. *MATLAB*
 
 ### History and Architecture
 - [Protecting Historic Coastal Cities](https://www.amazon.com/Protecting-Historic-Coastal-Cities-University-Corpus/dp/1623497701). (Editor). Texas A&M Press, 2019.
