@@ -10,7 +10,7 @@ Self-driven learner and experienced researcher in data science, machine learning
 
 #### Boolean Networks
 - (R) "[Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://www.sciencedirect.com/science/article/pii/S0378437121008761?dgcid=coauthor)," Physica A: Statistical Mechanics and Its Applications, 589, March 2022. Pelz, Matthew and Velcsov, Dora.
-- (R/Inkscape) "[Stability Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://pelzma.github.io/DPreductionposter.html)." University of Nebraska Omaha, Advisor Dora Velcsov, 2020.
+- (R/Inkscape) "[Stability Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://pelzma.github.io/DPreductionposter.svg)." University of Nebraska Omaha, Advisor Dora Velcsov, 2020.
 - (Matlab) "[Large Scale Dynamical Model of Macrophage/HIV Interactions](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=2481&context=srcaf)." As member of Mathematical Biology Group, University of Nebraska Omaha, Advisors Jim Rogers and Dora Velcsov, 2019.
 
 #### Dynamical Systems
