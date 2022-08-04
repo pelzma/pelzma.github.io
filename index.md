@@ -27,6 +27,13 @@ Self-driven learner and experienced researcher in data science, machine learning
 - “[The Strand Historic District](https://atlas.thc.texas.gov/NR/pdfs/70000748/70000748.pdf).” Galveston, Texas. NR #70000748. Revision to existing listing, 2018.
 - “[Fairacres Historic District](https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat).” Omaha, Nebraska. NR #100001353, 2018. 
 
+#### State Historical Markers
+-"[William and Adele Skinner House](https://atlas.thc.state.tx.us/Details/5507018752)", Marker #18752, 2017.
+-"[Mathilda Wehmeyer German-American Kindergarten School](https://atlas.thc.state.tx.us/Details/5507018647)" Marker #18647, 2017.
+-"[James S. Waters House](https://atlas.thc.state.tx.us/Details/5507018526)". Maker #18526, 2016.
+-"[Isaac Heffron House](https://atlas.thc.state.tx.us/Details/5507018528)". Marker #18258, 2016.
+
+
 
 ### Education
 - MS in Data Science, estimated completion Spring 2023, *The University of Texas at Austin*
