@@ -22,20 +22,18 @@ Self-driven learner and experienced researcher in data science, machine learning
 - “[Biographical Notes: George Washington Grover](http://www.texasgulfrecord.org/toc-volume-53.html),” Texas Gulf Historical and Biographical Record, 53, 2017. 
 
 #### National Register Nominations
-- “[South 8th Street Historic District](https://pelzma.github.io/South8thDistrict.pdf).” Council Bluffs, Iowa. NR #100005299, 2020.
-- “[The Galveston, Houston & Henderson Freight Depot](https://atlas.thc.texas.gov/NR/pdfs/100004866/100004866.pdf).” Galveston, Texas. NR #10000486, 2020. 
-- “[The Strand Historic District](https://atlas.thc.texas.gov/NR/pdfs/70000748/70000748.pdf).” Galveston, Texas. NR #70000748. Revision to existing listing, 2018.
-- “[Fairacres Historic District](https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat).” Omaha, Nebraska. NR #100001353, 2018. 
+- [South 8th Street Historic District](https://pelzma.github.io/South8thDistrict.pdf). Council Bluffs, Iowa. NR #100005299, 2020.
+- [The Galveston, Houston & Henderson Freight Depot](https://atlas.thc.texas.gov/NR/pdfs/100004866/100004866.pdf). Galveston, Texas. NR #10000486, 2020. 
+- [The Strand Historic District](https://atlas.thc.texas.gov/NR/pdfs/70000748/70000748.pdf). Galveston, Texas. NR #70000748. Revision to existing listing, 2018.
+- [Fairacres Historic District](https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat).” Omaha, Nebraska. NR #100001353, 2018. 
 
-#### State Historical Markers
-- “[Adolph and Regina Frenkel House](https://pelzma.github.io/2424L.pdf)", 2022.
-- “[Santa Maria](https://pelzma.github.io/SantaMaria.pdf)", 2019.
-- “[Zimmermann Telegram and Galveston](https://pelzma.github.io/ZimmermannTelegram.pdf)", Marker #18753, 2017.
-- “[William and Adele Skinner House](https://pelzma.github.io/1318Sealy.pdf)", Marker #18752, 2017.
-- “[Mardi Gras in Galveston](https://pelzma.github.io/MardiGras.pdf)", Marker #18751, 2017.
-- “[Mathilda Wehmeyer German-American Kindergarten School](https://pelzma.github.io/1616Winnie.pdf)" Marker #18647, 2017.
-- “[James S. Waters House](https://pelzma.github.io/1116Church.pdf)". Maker #18526, 2016.
-- “[Isaac Heffron House](https://pelzma.github.io/1509PostOffice.pdf)". Marker #18258, 2016.
+#### State Historical Marker Highlights
+- [Adolph and Regina Frenkel House](https://pelzma.github.io/2424L.pdf), 2020.
+- [The Shrimp Boat *Santa Maria*](https://pelzma.github.io/SantaMaria.pdf), 2019.
+- [The Zimmermann Telegram and Galveston](https://pelzma.github.io/ZimmermannTelegram.pdf), Marker #18753, 2017.
+- [William and Adele Skinner House](https://pelzma.github.io/1318Sealy.pdf), Marker #18752, 2017.
+- [Mardi Gras in Galveston](https://pelzma.github.io/MardiGras.pdf), Marker #18751, 2017.
+- [Mathilda Wehmeyer German-American Kindergarten School](https://pelzma.github.io/1616Winnie.pdf), Marker #18647, 2017.
 
 ### Education
 - MS in Data Science, estimated completion Spring 2023, *The University of Texas at Austin*
