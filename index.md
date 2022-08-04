@@ -20,7 +20,7 @@ Self-driven learner and experienced researcher in data science, machine learning
 - “[The Galveston Brewery](http://www.breweryhistory.com/journal/archive/180/index.html),” Journal of the Brewery History Society, 180, Autumn 2019.
 - “Fairacres: The George Brothers, George Kessler and the Development of Omaha's ‘Garden Suburb’,” Nebraska History Magazine, 100, 04, 2019.
 - “[Biographical Notes: George Washington Grover](http://www.texasgulfrecord.org/toc-volume-53.html),” Texas Gulf Historical and Biographical Record, 53, 2017. 
-- 
+
 #### National Register Nominations
 - “[South 8th Street Historic District](https://pelzma.github.io/South8thDistrict.pdf).” Council Bluffs, Iowa. NR #100005299, 2020.
 - “[The Galveston, Houston & Henderson Freight Depot](https://atlas.thc.texas.gov/NR/pdfs/100004866/100004866.pdf).” Galveston, Texas. NR #10000486, 2020. 
