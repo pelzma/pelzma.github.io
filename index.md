@@ -9,7 +9,7 @@ Graduate student in data science. Self-driven learner and experienced researcher
 - "[Large Scale Dynamical Model of Macrophage/HIV Interactions](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=2481&context=srcaf)." As member of Mathematical Biology Group, University of Nebraska Omaha, Advisor Jim Rogers, 2019.
 
 ### History and Architecture
-- Editor. [Protecting Historic Coastal Cities](https://www.amazon.com/Protecting-Historic-Coastal-Cities-University-Corpus/dp/1623497701). Texas A&M Press, 2019.
+- [Protecting Historic Coastal Cities](https://www.amazon.com/Protecting-Historic-Coastal-Cities-University-Corpus/dp/1623497701). (Editor). Texas A&M Press, 2019.
 - “The Desegregation of the Galveston Fire Department,” The Journal of South Texas, 34, 1, 2020.
 - “South 8th Street Historic District.” Council Bluffs, Iowa. NR #100005299, 2020.
 - “[The Galveston, Houston & Henderson Freight Depot](https://atlas.thc.texas.gov/NR/pdfs/100004866/100004866.pdf).” Galveston, Texas. NR #10000486, 2020. 
