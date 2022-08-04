@@ -10,7 +10,7 @@ Graduate student in data science. Self-driven learner and experienced researcher
 
 ### History and Architecture
 - [Protecting Historic Coastal Cities](https://www.amazon.com/Protecting-Historic-Coastal-Cities-University-Corpus/dp/1623497701). (Editor). Texas A&M Press, 2019.
-- “The Desegregation of the Galveston Fire Department,” The Journal of South Texas, 34, 1, 2020.
+- “[The Desegregation of the Galveston Fire Department](https://pelzma.github.io/DesegregationFireHouseArticle.pdf),” The Journal of South Texas, 34, 1, 2020.
 - “[South 8th Street Historic District](https://pelzma.github.io/South8thDistrict.pdf).” Council Bluffs, Iowa. NR #100005299, 2020.
 - “[The Galveston, Houston & Henderson Freight Depot](https://atlas.thc.texas.gov/NR/pdfs/100004866/100004866.pdf).” Galveston, Texas. NR #10000486, 2020. 
 - “[The Galveston Brewery](http://www.breweryhistory.com/journal/archive/180/index.html),” Journal of the Brewery History Society, 180, Autumn 2019.
