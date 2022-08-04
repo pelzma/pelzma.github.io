@@ -28,14 +28,14 @@ Self-driven learner and experienced researcher in data science, machine learning
 - “[Fairacres Historic District](https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat).” Omaha, Nebraska. NR #100001353, 2018. 
 
 #### State Historical Markers
--"[Adolph and Regina Frenkel House](https://pelzma.github.io/2424L.pdf)", 2022.
--"[Santa Maria](https://pelzma.github.io/SantaMaria.pdf)", 2019.
--"[Zimmermann Telegram and Galveston](https://pelzma.github.io/ZimmermannTelegram.pdf)", Marker #18753, 2017.
--"[William and Adele Skinner House](https://pelzma.github.io/1318Sealy.pdf)", Marker #18752, 2017.
--"[Mardi Gras in Galveston](https://pelzma.github.io/MardiGras.pdf)", Marker #18751, 2017.
--"[Mathilda Wehmeyer German-American Kindergarten School](https://pelzma.github.io/1616Winnie.pdf)" Marker #18647, 2017.
--"[James S. Waters House](https://pelzma.github.io/1116Church.pdf)". Maker #18526, 2016.
--"[Isaac Heffron House](https://pelzma.github.io/1509PostOffice.pdf)". Marker #18258, 2016.
+- “[Adolph and Regina Frenkel House](https://pelzma.github.io/2424L.pdf)", 2022.
+- “[Santa Maria](https://pelzma.github.io/SantaMaria.pdf)", 2019.
+- “[Zimmermann Telegram and Galveston](https://pelzma.github.io/ZimmermannTelegram.pdf)", Marker #18753, 2017.
+- “[William and Adele Skinner House](https://pelzma.github.io/1318Sealy.pdf)", Marker #18752, 2017.
+- “[Mardi Gras in Galveston](https://pelzma.github.io/MardiGras.pdf)", Marker #18751, 2017.
+- “[Mathilda Wehmeyer German-American Kindergarten School](https://pelzma.github.io/1616Winnie.pdf)" Marker #18647, 2017.
+- “[James S. Waters House](https://pelzma.github.io/1116Church.pdf)". Maker #18526, 2016.
+- “[Isaac Heffron House](https://pelzma.github.io/1509PostOffice.pdf)". Marker #18258, 2016.
 
 ### Education
 - MS in Data Science, estimated completion Spring 2023, *The University of Texas at Austin*
