@@ -1,5 +1,5 @@
 ## Profile
-Graduate student in data science. Self-driven learner and experienced researcher. Organizer of research projects on topics in data science and networks. Educated in machine learning theory and practice. Recognized for excellence in data visualization. Background in historical research, compiling primary source material and analyzing secondary sources resulting in several publications and reports prepared for government agencies.
+Self-driven learner and experienced researcher in data science, machine learning, and architectural history. Organizer of research projects on topics in complex networks. Educated in machine learning theory and practice. Recognized for excellence in data visualization. Background in historical research, compiling primary source material and analyzing secondary sources resulting in several publications and reports prepared for government agencies.
 
 ### Math and Data Science
 - Pelz, Matthew and Velcsov, Dora. "[Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://www.sciencedirect.com/science/article/pii/S0378437121008761?dgcid=coauthor)," Physica A: Statistical Mechanics and Its Applications, 589, March 2022.
