@@ -28,19 +28,18 @@ Self-driven learner and experienced researcher in data science, machine learning
 - “[Fairacres Historic District](https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat).” Omaha, Nebraska. NR #100001353, 2018. 
 
 #### State Historical Markers
--"[William and Adele Skinner House](https://atlas.thc.state.tx.us/Details/5507018752)", Marker #18752, 2017.
--"[Mathilda Wehmeyer German-American Kindergarten School](https://atlas.thc.state.tx.us/Details/5507018647)" Marker #18647, 2017.
--"[James S. Waters House](https://atlas.thc.state.tx.us/Details/5507018526)". Maker #18526, 2016.
--"[Isaac Heffron House](https://atlas.thc.state.tx.us/Details/5507018528)". Marker #18258, 2016.
-
-
+-"[Zimmermann Telegram and Galveston](https://pelzma.github.io/ZimmermannTelegram.pdf)", Marker #18753, 2017.
+-"[William and Adele Skinner House](https://pelzma.github.io/1318Sealy.pdf)", Marker #18752, 2017.
+-"[Mardi Gras in Galveston](https://pelzma.github.io/MardiGras.pdf)", Marker #18751, 2017.
+-"[Mathilda Wehmeyer German-American Kindergarten School](https://pelzma.github.io/1616Winnie.pdf)" Marker #18647, 2017.
+-"[James S. Waters House](https://pelzma.github.io/1116Church.pdf)". Maker #18526, 2016.
+-"[Isaac Heffron House](https://pelzma.github.io/1509PostOffice.pdf)". Marker #18258, 2016.
 
 ### Education
 - MS in Data Science, estimated completion Spring 2023, *The University of Texas at Austin*
 - BS in Mathematics, *The University of Nebraska Omaha*   
 - MS in Historic Preservation, *Clemson University/College of Charleston*
 - BA in History, *The University of North Carolina at Chapel Hill*
-
 
 ### Contact
 26 West Trace Creek Drive, Spring, Texas 77381  
