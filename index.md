@@ -12,7 +12,7 @@ Self-driven learner and experienced researcher in data science, machine learning
 - (R) "[Trends in Food Choices](https://pelzma.github.io/dvfoodchoices.html)." University of Texas at Austin, Spring 2022.
 
 #### Computer Vision
-- (Python/Google Cloud) "[Image Agent Design for SuperTuxKart Ice Hockey]"(https://pelzma.github.io/kartclip1.mp4). University of Texas at Austin, Spring 2022.
+- (Python/Google Cloud) "[Image Agent Design for SuperTuxKart Ice Hockey](https://pelzma.github.io/kartclip1.mp4)". University of Texas at Austin, Spring 2022.
 
 #### Networks and Dynamics
 - (R) "[Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://www.sciencedirect.com/science/article/pii/S0378437121008761?dgcid=coauthor)," Physica A: Statistical Mechanics and Its Applications, 589, March 2022. Pelz, Matthew and Velcsov, Dora.
