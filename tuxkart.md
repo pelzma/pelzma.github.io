@@ -1,0 +1,8 @@
+## Image Agent Design for SuperTuxKart Ice Hockey
+
+For the final project in a course on Deep Learning, I collaborated with two teammates to design an autonomous agent for the SuperTuxKart Ice Hockey video game.
+We created image-based agents to compete in 2-on-2 hockey matches. Using our own generated data of gameplay images, we trained neural networks to determine
+on-screen puck locations, and we designed a controller to try to capture the puck and steer it into the appropriate goal.
+
+<video src="https://pelzma.github.io/kartclip1.mp4" controls="controls" style="max-width: 730px;">
+</video>
