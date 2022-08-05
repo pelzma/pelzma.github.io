@@ -1,7 +1,7 @@
 ## Profile
 Self-driven learner and experienced researcher in data science, machine learning, and architectural history. Organizer of research projects on topics in complex networks. Educated in machine learning theory and practice. Recognized for excellence in data visualization. Background in historical research, compiling primary source material and analyzing secondary sources resulting in several publications and reports prepared for government agencies.
 
-### Math and Data Science  
+### Math and Data Science<br>
 #### Natural Language Processing
 - (Python/Google Cloud) "[The Impacts of Premise Length on NLI Models](https://pelzma.github.io/premiselengthpaper.pdf)." University of Texas at Austin, Fall 2021.  
 #### Machine Learning
