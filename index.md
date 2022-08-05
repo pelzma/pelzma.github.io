@@ -5,6 +5,9 @@ Self-driven learner and experienced researcher in data science, machine learning
 #### Natural Language Processing
 - (Python/Google Cloud) "[The Impacts of Premise Length on NLI Models](https://pelzma.github.io/premiselengthpaper.pdf)." University of Texas at Austin, Fall 2021.
 
+#### Machine Learning
+- (R) "[Predicting fraud in self-checkout stores](https://pelzma.github.io/fraudpredict.pdf)." University of Nebraska Omaha, Spring 2020.
+
 #### Data Visualization
 - (R) "[Trends in Food Choices](https://pelzma.github.io/dvfoodchoices.html)." University of Texas at Austin, Spring 2022.
 
