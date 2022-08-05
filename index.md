@@ -9,7 +9,7 @@ Self-driven learner and experienced researcher in data science, machine learning
 - (R) "[Predicting fraud in self-checkout stores](https://pelzma.github.io/fraudpredict.pdf)." University of Nebraska Omaha, Spring 2020.
 
 #### Data Visualization
-- (R/Inkscape) "[The American Opioid Epidemic]"(https://pelzma.github.io/opioidposter.pdf). University of Nebraska Omaha, Spring 2019. *First prize in 2019 Civic Participation Data Analysis Competition*
+- (R/Inkscape) "[The American Opioid Epidemic](https://pelzma.github.io/opioidposter.pdf)". University of Nebraska Omaha, Spring 2019. *First prize in 2019 Civic Participation Data Analysis Competition*
 - (R) "[Trends in Food Choices](https://pelzma.github.io/dvfoodchoices.html)." University of Texas at Austin, Spring 2022.
 
 #### Computer Vision
