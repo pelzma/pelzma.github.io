@@ -1,5 +1,5 @@
 ## Profile
-Graduate student and self-driven learner with five years of programming experience, primarily in R and Python. Educated in theory and applications in machine learning, deep learning, computer vision, and natural language processing. Published researcher in data science and networks. Recognized for excellence in data visualization. Extensive background in historical research projects, compiling and analyzing historical property data for submission to governmental agencies.
+Graduate student with five years of programming experience, primarily in R and Python. Educated in theory and applications in machine learning, deep learning, computer vision, and natural language processing. Published researcher in data science and networks. Recognized for excellence in data visualization. Extensive background in historical research projects, compiling and analyzing historical property data for submission to governmental agencies.
 
 ### Math and Data Science<br>
 #### Natural Language Processing
