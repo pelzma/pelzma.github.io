@@ -1,5 +1,5 @@
 ## Profile
-Self-driven learner and experienced researcher in data science, machine learning, and architectural history. Organizer of research projects on topics in complex networks. Educated in machine learning theory and practice. Recognized for excellence in data visualization. Background in historical research, compiling primary source material and analyzing secondary sources resulting in several publications and reports prepared for government agencies.
+Graduate student and self-driven learner with five years of programming experience, primarily in R and Python. Educated in theory and applications in machine learning, deep learning, computer vision, and natural language processing. Published researcher in data science and networks. Recognized for excellence in data visualization. Extensive background in historical research projects, compiling and analyzing historical property data for submission to governmental agencies.
 
 ### Math and Data Science<br>
 #### Natural Language Processing
