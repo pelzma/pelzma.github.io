@@ -42,7 +42,7 @@ Graduate student with five years of programming experience, primarily in R and P
 - [Mathilda Wehmeyer German-American Kindergarten School](https://pelzma.github.io/1616Winnie.pdf), Marker #18647, 2017.
 
 ### Education
-- MS in Data Science, estimated completion Spring 2023, *The University of Texas at Austin*
+- MS in Data Science, *The University of Texas at Austin*, estimated completion Spring 2023.
 - BS in Mathematics, *The University of Nebraska Omaha*   
 - MS in Historic Preservation, *Clemson University/College of Charleston*
 - BA in History, *The University of North Carolina at Chapel Hill*
