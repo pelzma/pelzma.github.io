@@ -6,8 +6,10 @@ Explore the links below for details on projects and papers. For any questions or
 #### [Network Dynamics](https://www.pelzma.io/dynamics.html)
 #### [Publications](https://www.pelzma.io/pubs.html)
 
-#### [About](https://www.pelzma.io/about.html)
 ### Contact
 26 West Trace Creek Drive, Spring, Texas 77381  
 [email](mailto: mattpelz@pm.me)  
 [linkedin](https://www.linkedin.com/in/pelzm/)
+
+
+#### [About](https://www.pelzma.io/about.html)
