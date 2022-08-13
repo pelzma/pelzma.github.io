@@ -1,5 +1,5 @@
 ##             
-Explore the links below for details on projects and papers. For any questions or ideas, email me at [mattpelz@pm.me](mailto: mattpelz@pm.me) .
+Explore the links below for details on projects and papers. [Check here](https://www.pelzma.io/about.html) for info about me. For any questions or ideas, email me at [mattpelz@pm.me](mailto: mattpelz@pm.me) .
 
 #### [Data Analysis](https://www.pelzma.io/analysis.html)
 #### [Machine Learning](https://www.pelzma.io/ml.html)
@@ -11,6 +11,3 @@ Explore the links below for details on projects and papers. For any questions or
 26 West Trace Creek Drive, Spring, Texas 77381  
 [email](mailto: mattpelz@pm.me)  
 [linkedin](https://www.linkedin.com/in/pelzm/)
-
-
-#### [About](https://www.pelzma.io/about.html)
