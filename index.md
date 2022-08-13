@@ -1,52 +1,13 @@
 ## Profile
-Graduate student with five years of programming experience, primarily in R and Python. Educated in theory and applications in machine learning, deep learning, computer vision, and natural language processing. Published researcher in data science and networks. Recognized for excellence in data visualization. Extensive background in historical research projects, compiling and analyzing historical property data for submission to governmental agencies.
+Explore the links below for details on projects and papers. For any questions or ideas, email me at [mattpelz@pm.me](mailto: mattpelz@pm.me) .
 
-### Math and Data Science<br>
-#### Natural Language Processing
-- (Python/Google Cloud) "[The Impacts of Premise Length on NLI Models](https://pelzma.github.io/premiselengthpaper.pdf)." University of Texas at Austin, Fall 2021.
-
+#### [Data Analysis](https://www.pelzma.io/analysis.html)
 #### Machine Learning
-- (R) "[Predicting fraud in self-checkout stores](https://pelzma.github.io/fraudpredict.pdf)." University of Nebraska Omaha, Spring 2020.
-- (Python/Google Cloud) "[Image Agent Design for SuperTuxKart Ice Hockey](https://pelzma.github.io/tuxkart.html)". University of Texas at Austin, Spring 2022.
-
-#### Data Visualization
-- (R/Inkscape) "[The American Opioid Epidemic](https://pelzma.github.io/opioidposter.pdf)". University of Nebraska Omaha, Spring 2019. **First prize in 2019 Civic Participation Data Analysis Competition**
-- (R) "[Trends in Food Choices](https://pelzma.github.io/dvfoodchoices.html)." University of Texas at Austin, Spring 2022.
-
+#### Natural Language Processing
 #### Network Dynamics
-- (R) "[Entropy Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://www.sciencedirect.com/science/article/pii/S0378437121008761?dgcid=coauthor)," Physica A: Statistical Mechanics and Its Applications, 589, March 2022. Pelz, Matthew and Velcsov, Dora.
-- (R/Inkscape) "[Stability Analysis of Boolean Network Reduction According to the Determinative Power of Nodes](https://pelzma.github.io/DPreductionposter.svg)." University of Nebraska Omaha, Advisor Dora Velcsov, 2020.
-- (Matlab) "[Large Scale Dynamical Model of Macrophage/HIV Interactions](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=2481&context=srcaf)." As member of Mathematical Biology Group, University of Nebraska Omaha, Advisors Jim Rogers and Dora Velcsov, 2019.
-- "[An Overview of Dynamical Systems and Chaos](https://pelzma.github.io/dynamicalsystems.pdf). University of Nebraska Omaha, Fall 2017.
-
-### History and Architecture
 #### Publications
-- [Protecting Historic Coastal Cities](https://www.amazon.com/Protecting-Historic-Coastal-Cities-University-Corpus/dp/1623497701). (Editor). Texas A&M Press, 2019.
-- “[The Desegregation of the Galveston Fire Department](https://pelzma.github.io/DesegregationFireHouseArticle.pdf),” The Journal of South Texas, 34, 1, 2020.
-- “[The Galveston Brewery](http://www.breweryhistory.com/journal/archive/180/index.html),” Journal of the Brewery History Society, 180, Autumn 2019.
-- “Fairacres: The George Brothers, George Kessler and the Development of Omaha's ‘Garden Suburb’,” Nebraska History Magazine, 100, 04, 2019.
-- “[Biographical Notes: George Washington Grover](http://www.texasgulfrecord.org/toc-volume-53.html),” Texas Gulf Historical and Biographical Record, 53, 2017.
 
-#### National Register Nominations
-- [South 8th Street Historic District](https://pelzma.github.io/South8thDistrict.pdf). Council Bluffs, Iowa. NR #100005299, 2020.
-- [The Galveston, Houston & Henderson Freight Depot](https://atlas.thc.texas.gov/NR/pdfs/100004866/100004866.pdf). Galveston, Texas. NR #10000486, 2020. 
-- [The Strand Historic District](https://atlas.thc.texas.gov/NR/pdfs/70000748/70000748.pdf). Galveston, Texas. NR #70000748. Revision to existing listing, 2018.
-- [Fairacres Historic District](https://issuu.com/kristinetynangerber/docs/fairacres_historic_district_nominat).” Omaha, Nebraska. NR #100001353, 2018.
-
-#### State Historical Marker Highlights
-- [Adolph and Regina Frenkel House](https://pelzma.github.io/2424L.pdf), 2020.
-- [The Shrimp Boat *Santa Maria*](https://pelzma.github.io/SantaMaria.pdf), 2019.
-- [The Zimmermann Telegram and Galveston](https://pelzma.github.io/ZimmermannTelegram.pdf), Marker #18753, 2017.
-- [William and Adele Skinner House](https://pelzma.github.io/1318Sealy.pdf), Marker #18752, 2017.
-- [Mardi Gras in Galveston](https://pelzma.github.io/MardiGras.pdf), Marker #18751, 2017.
-- [Mathilda Wehmeyer German-American Kindergarten School](https://pelzma.github.io/1616Winnie.pdf), Marker #18647, 2017.
-
-### Education
-- MS in Data Science, *The University of Texas at Austin*, estimated completion Spring 2023.
-- BS in Mathematics, *The University of Nebraska Omaha*   
-- MS in Historic Preservation, *Clemson University/College of Charleston*
-- BA in History, *The University of North Carolina at Chapel Hill*
-
+### About
 ### Contact
 26 West Trace Creek Drive, Spring, Texas 77381  
 [email](mailto: mattpelz@pm.me)  
