@@ -1,4 +1,4 @@
-## 
+##             
 Explore the links below for details on projects and papers. For any questions or ideas, email me at [mattpelz@pm.me](mailto: mattpelz@pm.me) .
 
 #### [Data Analysis](https://www.pelzma.io/analysis.html)
