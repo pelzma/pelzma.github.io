@@ -1,6 +1,5 @@
    
    <br>
-Explore the links below for details on projects and papers. <br> [Check here](https://www.pelzma.io/about.html) for info about me. <br> For any questions or ideas, email me at [mattpelz@pm.me](mailto: mattpelz@pm.me) .
 
 #### [Data Analysis](https://www.pelzma.io/analysis.html)
 #### [Machine Learning](https://www.pelzma.io/ml.html)
