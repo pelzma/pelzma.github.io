@@ -2,7 +2,7 @@
    <br>
 
 
-I'm a research and data scientist. I study theory and applications in machine learning and deep learning, with a particular interest in natural language processing. I've had research published on data networks as well as many topics in cultural history. Explore the pages below or contact me to learn more!
+I'm a researcher, data scientist, and machine learning specialist with a particular interest in natural language processing. I've had research published on data networks and many topics in cultural history. Explore the pages below or contact me to learn more!
 
 #### [Data Analysis](https://www.pelzma.io/analysis.html)
 #### [Machine Learning](https://www.pelzma.io/ml.html)
